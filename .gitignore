@@ -2,3 +2,7 @@ Makefile
 build
 focuswriter
 *~
+
+const_variables.patch
+
+focuswriter.pro.user
